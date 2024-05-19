@@ -156,7 +156,7 @@
 
 <a href="https://www.facebook.com/Dragon.Hunter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Dragon.Hunter" height="30" width="40" /> Dragon.Hunter </a> 
 
-<a href="https://instagram.com/shehan_nirmana_?igsh=mw1iajhvngxxznvwyw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehan_nirmana___" height="30" width="40" /> shehan_nirmana___ </a>
+<a href="https://instagram.com/shehan_nirmana_?igsh=mw1iajhvngxxznvwyw==" target="blank"><img align="center" src="https://github.com/Nethmina-Kavinda/template-photo/blob/main/youtube%20logo.png" alt="shehan_nirmana___" height="30" width="40" /> shehan_nirmana___ </a>
 
 <a href="nethminakavinda@gmail.com" target="blank"><img align="center" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/1209534_address%20book_contacts_email_gmail_mail_icon.svg" alt="nethminakavinda@gmail.com" height="30" width="40" /> nethminakavinda@gmail.com </a>
 
