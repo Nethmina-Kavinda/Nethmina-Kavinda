@@ -146,7 +146,7 @@
 <tr border="none">
 <td align="center">
 
-<img align="center" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/My%20Pic.jpg" width="220px">
+<img align="center" src="https://github.com/Nethmina-Kavinda/template-photo/blob/main/NK%20BANDARA%20(1).jpg" width="220px">
 </td>
 <td >
 
