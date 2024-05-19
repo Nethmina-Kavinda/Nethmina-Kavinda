@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **nethminakavinda@gamail.com**
 
-- ⚡ Fun fact **Everytime, I TRY TO DO MY BEST...**
+- ⚡ Fun fact **Everytime, Gain the best Digital Experience 👊**
 
 	</td>
 	<td width="50%" align="center"><img align="center" alt="Coding" width="450" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif">
