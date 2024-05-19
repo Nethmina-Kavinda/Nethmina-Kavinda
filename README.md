@@ -151,16 +151,14 @@
 <td >
 
 
-<a href="https://linkedin.com/in/shehan-nirmana-7ab3b1257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/shehan-nirmana" height="30" width="35" /> in/nethmina-kavinda </a>
-
-    
-<a href="https://x.com/nirmana_shehan" target="blank"><img align="center" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/x-social-media-round-icon.svg" alt="@nirmana_shehan" height="40" width="40" /> @nirmana_shehan </a> 
+<a href="https://linkedin.com/in/shehan-nirmana-7ab3b1257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/nethmina-kavinda" height="30" width="35" /> in/nethmina-kavinda </a>
+ 
 
 <a href="https://fb.com/profile.php?id=100010942234880&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="K.A.S.Nirmana" height="30" width="40" /> K.A.S.Nirmana </a> 
 
 <a href="https://instagram.com/shehan_nirmana_?igsh=mw1iajhvngxxznvwyw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehan_nirmana___" height="30" width="40" /> shehan_nirmana___ </a>
 
-<a href="shehanwarnasooriya@gmail.com" target="blank"><img align="center" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/1209534_address%20book_contacts_email_gmail_mail_icon.svg" alt="shehanwarnasooriya@gmail.com" height="30" width="40" /> nethminakavinda@gmail.com </a>
+<a href="nethminakavinda@gmail.com" target="blank"><img align="center" src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/1209534_address%20book_contacts_email_gmail_mail_icon.svg" alt="nethminakavinda@gmail.com" height="30" width="40" /> nethminakavinda@gmail.com </a>
 
   
   </td>
@@ -172,7 +170,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Support: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"></h2>
-<p align="center"><a href="https://www.buymeacoffee.com/Nirmana-KAS"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nirmana-KAS" /></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/Nethmina-Kavinda"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nethmina-Kavinda" /></a></p>
 <br>
 <br>
 <p align="center"><img src='https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif' width="80px"> </p>
