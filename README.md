@@ -151,7 +151,7 @@
 <td >
 
 
-<a href="https://linkedin.com/in/shehan-nirmana-7ab3b1257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/nethmina-kavinda" height="30" width="35" /> in/nethmina-kavinda </a>
+<a href="https://www.linkedin.com/in/nethmina-kavinda-386240171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/nethmina-kavinda" height="30" width="35" /> in/nethmina-kavinda </a>
  
 
 <a href="https://fb.com/profile.php?id=100010942234880&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="K.A.S.Nirmana" height="30" width="40" /> K.A.S.Nirmana </a> 
